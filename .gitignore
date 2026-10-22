@@ -1,0 +1,13 @@
+# Large SoundFont
+*.sf2
+TURKISH-ARAB3.sf2
+
+# Audio sample extraction working directories
+real_samples/
+samples/
+
+# Backups & temp
+*.bak
+*.tmp
+__pycache__/
+*.pyc
